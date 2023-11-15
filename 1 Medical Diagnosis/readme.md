@@ -22,3 +22,5 @@
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/868b60d5-5e79-4774-a60a-0379a934f821)
 
 ## Small Training Set
+![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/063ea6b4-2b76-4d1d-8a0f-2340ee930409)
+
