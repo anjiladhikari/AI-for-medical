@@ -33,4 +33,5 @@
 
 # Checking Model Performance
 
+![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/cf311d64-45c8-4e13-8b80-c2ca0b3335ae)
 
