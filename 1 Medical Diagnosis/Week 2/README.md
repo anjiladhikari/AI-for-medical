@@ -17,3 +17,4 @@
 
 # Threshold and Evaluation Metrcis
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/31363243-4549-40e6-b153-334dcda92110)
+![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/f957c708-97be-4fc2-9b60-b56e345a210b)
