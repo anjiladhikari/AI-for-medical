@@ -25,4 +25,5 @@
 # Interpreting Confidence Intervals Correctly
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/542c502d-8e5f-40fc-aaff-1286e186a2c6)
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/976620ce-cf7d-43e0-aaf1-4ecc4a0f0051)
+![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/da00c5c8-a4cf-491c-9cc0-36902621d3d6)
 
