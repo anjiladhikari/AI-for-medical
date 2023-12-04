@@ -9,4 +9,5 @@
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/d5b1fe78-4ca3-45f6-a88d-0d243db11958)
 
 ## Segmentation
+![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/361db519-ec76-43a7-b4a8-dfe9f0e7776e)
 
