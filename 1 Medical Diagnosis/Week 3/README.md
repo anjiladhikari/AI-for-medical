@@ -18,3 +18,4 @@
 
 
 # U-Net
+![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/db1a6014-4dbc-467d-9061-f610b3a6a990)
