@@ -17,5 +17,6 @@
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/80c73624-a44e-4fb9-91d1-a5d8107b94db)
 
 
-# U-Net
+## U-Net
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/db1a6014-4dbc-467d-9061-f610b3a6a990)
+![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/eaf594e6-5728-4ea2-93d6-1cc3341b8cf3)
