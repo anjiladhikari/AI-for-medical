@@ -26,3 +26,4 @@
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/91f147e5-6008-42af-a1a1-38cb33378411)
 
 ## Loss Function for Image Segmentation
+![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/2992e9d7-e487-4498-bd0c-f7d3a74ade11)
