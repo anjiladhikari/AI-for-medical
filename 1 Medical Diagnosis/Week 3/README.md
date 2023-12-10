@@ -20,6 +20,8 @@
 ## U-Net
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/db1a6014-4dbc-467d-9061-f610b3a6a990)
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/eaf594e6-5728-4ea2-93d6-1cc3341b8cf3)
+![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/bb6eaf58-dca2-42df-9521-0981ea2c7a67)
+
 
 ## Data Augmentation for Segmentation
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/4ed8f785-3a39-4edb-be54-4031fdf048bc)
