@@ -22,4 +22,6 @@
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/eaf594e6-5728-4ea2-93d6-1cc3341b8cf3)
 
 ## Data Augmentation for Segmentation
+![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/4ed8f785-3a39-4edb-be54-4031fdf048bc)
+
 
