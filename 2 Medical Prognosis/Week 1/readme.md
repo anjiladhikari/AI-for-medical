@@ -27,8 +27,8 @@
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/ff2ed55a-13ab-485d-a338-f03d7cf93cab)
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/5f2f10a5-735f-412d-8a4b-e315aca6bf61)
 
-
-
+# Evaluating Prognostic Models
+![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/920ceac4-038f-4ce3-a8b3-ddb6c01acfec)
 
 
 
