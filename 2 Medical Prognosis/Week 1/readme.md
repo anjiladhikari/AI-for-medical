@@ -6,3 +6,4 @@
 ## Atrial Fibrillation
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/bf80e475-fd2d-410f-8083-33b842dd9647)
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/20911a92-c69a-46b2-ae2f-66897e08088b)
+![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/e6327b45-cda1-451a-b7cb-6ad983f3a917)
