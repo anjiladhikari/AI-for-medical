@@ -9,3 +9,4 @@
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/e6327b45-cda1-451a-b7cb-6ad983f3a917)
 ##Liver Disease Mortality
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/30cdf492-1b89-41f3-afc6-4f19212b1b3d)
+![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/0e997ee8-2900-47bb-8cdf-1f2c171bb400)
