@@ -33,6 +33,7 @@
 ## Concordant Pairs, Risk Ties, Permissible Pairs
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/dd0071c3-46f3-431b-a65d-ac437fdcb06f)
 
+##c-Index
 
 
 
