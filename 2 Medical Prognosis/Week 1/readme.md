@@ -5,3 +5,4 @@
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/aff19dab-a710-4299-8820-49fb22a62777)
 ## Atrial Fibrillation
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/bf80e475-fd2d-410f-8083-33b842dd9647)
+![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/20911a92-c69a-46b2-ae2f-66897e08088b)
