@@ -35,6 +35,7 @@
 
 ##c-Index
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/9c2a3f81-6de7-4888-8215-5bdb17fb7d46)
+![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/91616dd7-9b33-4773-a2a0-a1f0d920a09a)
 
 
 
