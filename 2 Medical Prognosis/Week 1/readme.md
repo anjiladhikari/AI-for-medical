@@ -13,3 +13,4 @@
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/c47b3213-b39e-4a36-b6c7-e6d898d45632)
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/36757b7b-b6fb-4670-8edd-403cd483847b)
 ## Risk of Heart Disease
+![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/c7abdfbc-4b10-4289-9e21-772837c3d517)
