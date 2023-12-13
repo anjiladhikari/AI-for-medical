@@ -23,6 +23,7 @@
 # Risk Score Computation
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/72111bf4-f4a7-4ecf-a374-44a7bcda4405)
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/35f1b96e-a7b0-475d-a2bd-d975c312f48f)
+![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/8a890108-cd78-4125-a1e4-f5d465cc4f38)
 
 
 
