@@ -1,3 +1,3 @@
-# Diagnosis
+# Diagnosis.
 
 # Prognosis
