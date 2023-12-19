@@ -24,6 +24,7 @@
 ## Survival Data
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/438e9fd6-2a00-4127-bd85-2b74abbeec09)
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/cc23612b-c0d4-4b4b-9e75-0131b996a706)
+![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/fe57d981-5d7e-4f85-8b02-c14df461c582)
 
 
 
