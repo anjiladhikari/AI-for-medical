@@ -32,7 +32,7 @@
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/1c68f9d6-0a7b-447d-a4e1-cb86762b737d)
 
 
-
+## Missing Data Example
 
 
 
