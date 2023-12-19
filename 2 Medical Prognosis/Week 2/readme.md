@@ -22,6 +22,7 @@
 # Identifying missing data
 
 ## Survival Data
+![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/438e9fd6-2a00-4127-bd85-2b74abbeec09)
 
 
 
