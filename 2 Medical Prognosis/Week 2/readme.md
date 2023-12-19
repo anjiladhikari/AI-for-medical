@@ -19,7 +19,7 @@
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/3362d1b5-7f98-470a-a924-35932f4db325)
 
 
-# Identifing missing data
+# Identifying missing data
 
 
 
