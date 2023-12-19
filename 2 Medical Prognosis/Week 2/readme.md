@@ -27,6 +27,7 @@
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/fe57d981-5d7e-4f85-8b02-c14df461c582)
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/79fccb28-d17d-40ce-87f9-c6845fc98dd3)
 
+## Different Distributions
 
 
 
