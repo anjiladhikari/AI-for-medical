@@ -13,6 +13,25 @@
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/7c1ef78e-086a-45b3-9b77-d891577c54d6)
 
 # Random forest
+![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/90d1a1e5-5a2f-426b-8b9b-d3458053016e)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
