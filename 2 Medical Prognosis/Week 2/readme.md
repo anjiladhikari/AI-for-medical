@@ -41,7 +41,7 @@
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/533630f0-7fe5-49bc-87bc-b6d673410e84)
 
 ## Using imputation to handeling missing data
-
+### Imputation
 
 
 
