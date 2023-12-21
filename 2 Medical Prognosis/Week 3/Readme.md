@@ -5,3 +5,4 @@
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/2d57cfcf-bef0-4739-93b3-937b8786eace)
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/74b56405-49b0-453d-96db-b6e587da6d38)
 ## Valid Survival Functions
+![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/d0ec79c6-627a-4209-baa8-17fb36db1df7)
