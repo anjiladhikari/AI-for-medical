@@ -8,3 +8,4 @@
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/d0ec79c6-627a-4209-baa8-17fb36db1df7)
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/8d6e6ca3-7ee0-44d1-82bb-d36effacbf55)
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/24a2c28f-8ee9-42d2-b7a2-23d4a0448654)
+![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/64310af8-c08a-4221-9ac3-55afa7339356)
