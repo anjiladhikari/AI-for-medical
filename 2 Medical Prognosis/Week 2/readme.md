@@ -34,6 +34,7 @@
 
 ## Missing Data Example
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/02a45e84-ae6f-4614-ae8b-94f3962b3e55)
+![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/96b7e785-b6b5-4bb9-8ebd-6354fb21219a)
 
 
 
