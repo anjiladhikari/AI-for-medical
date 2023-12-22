@@ -11,3 +11,4 @@
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/64310af8-c08a-4221-9ac3-55afa7339356)
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/aaca45ab-2de1-44f7-ac7c-5ebf1ad9b153)
 ## Time to Event Data
+![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/bbae334f-7394-42e1-8339-32d7af1f53b9)
