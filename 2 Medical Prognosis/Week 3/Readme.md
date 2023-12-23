@@ -24,6 +24,25 @@
 
 ## Estimate survival with censored data
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/411ea78d-f687-4833-bc91-a636ffc14510)
+![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/ffa5af7b-9069-47b0-a730-209d0a968d72)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Estimating the survival function 
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/32cc33a7-baf9-42da-b8af-5b00d4a0b6fd)
