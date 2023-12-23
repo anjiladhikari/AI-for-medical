@@ -31,3 +31,29 @@
 
 ### using censored data
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/ffa5af7b-9069-47b0-a730-209d0a968d72)
+![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/e32e3d00-901d-44d2-9cbb-70c085c40340)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
