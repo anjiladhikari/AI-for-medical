@@ -2,4 +2,4 @@
 
 # Prognosis.
 
-# Treatment
+# Treatment.
