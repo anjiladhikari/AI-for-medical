@@ -1,4 +1,4 @@
-# Handling class imblance and small training set..
+# Handling class imblance and small training set...
 
 ![image](https://github.com/anjiladhikari/AI-for-medical/assets/21165474/cfdafda3-dab1-47b4-9e57-1e509df0e7df)
 
